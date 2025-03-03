@@ -13,8 +13,9 @@ const universityLinks = [
 const mayfestLinks = [{ name: "五月祭公式HP", url: "https://gogatsusai.jp/" }]
 
 const socialLinks = [
+  { name: "工学博覧会", icon: FaXTwitter, url: "https://x.com/apmayfes" },
   { name: "工学博覧会", icon: FaInstagram, url: "https://www.instagram.com/apmayfest/" },
-  { name: "五月祭", icon: FaXTwitter, url: "https://twitter.com/gogatsusai" },
+  { name: "五月祭", icon: FaXTwitter, url: "https://x.com/gogatsusai" },
   { name: "五月祭", icon: FaInstagram, url: "https://www.instagram.com/gogatsusai/" },
 ]
 
