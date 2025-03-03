@@ -6,7 +6,6 @@ const notoSansJP = Noto_Sans_JP({
   variable: "--font-noto-sans-jp",
   subsets: ["latin"],
   weight: ["400", "500", "700"],
-  display: 'swap',
   preload: true,
 });
 
@@ -14,7 +13,6 @@ const shipporiMincho = Shippori_Mincho({
   weight: ["400", "500"],
   variable: "--font-shippori-mincho",
   subsets: ["latin"],
-  display: 'swap',
   preload: true,
 });
 
