@@ -1,0 +1,17 @@
+{
+  "name": "工学博覧会2025",
+  "short_name": "工学博覧会",
+  "description": "東京大学五月祭2025 工学博覧会の公式サイト",
+  "start_url": "/",
+  "display": "browser",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "32x32 16x16",
+      "type": "image/x-icon"
+    }
+  ],
+  "lang": "ja"
+}
